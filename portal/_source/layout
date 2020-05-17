@@ -1,0 +1,30 @@
+<HTML>
+<HEAD>
+	<TITLE>
+		<!--pagetitle--> - Sonic Adventure Portal
+	</TITLE>
+</HEAD>
+<BODY bgcolor="black" text="white" background="/asset/bgtile.gif" link="DeepSkyBlue" vlink="DarkViolet">
+	<FONT face="Arial, sans-serif" size="2">
+	<DIV align="center">
+		<TABLE border="0" width="860" cellspacing="0" cellpadding="0">
+			<TR height="24"></TR>
+			<TR><TD align="center" colspan="2">
+				<!--header-->
+			</TD></TR>
+			<TR>
+				<TD width="640" valign="top" bgcolor="black">
+					<!--contents-->
+				</TD><TD width="10"></TD>
+				<TD width="210" valign="top" bgcolor="black">
+					<!--sidebar-->
+				</TD>
+			</TR>
+			<TR><TD align="center" colspan="2">
+				<!--footer-->
+			</TD></TR>
+		</TABLE>
+	</DIV>
+	</FONT>
+</BODY>
+</HTML>
